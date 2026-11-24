@@ -1,0 +1,8 @@
+﻿# OS and editor temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Word drafts and lock files
+*.docx
+~$*
